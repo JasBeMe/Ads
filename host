@@ -2,11 +2,12 @@
 #=====================================
 # Title: Hosts contributed by me
 
-
+# Other
 0.0.0.0 iphone12pro.luckywinner-web1.com
+
+# Samsung
 0.0.0.0 lcprd1.samsungcloudsolution.net
-
-
+0.0.0.0 ocfconnect-shard-eu02-euwest1.samsungiotcloud.com
 
 
 # netflix.com
