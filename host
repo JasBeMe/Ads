@@ -10,7 +10,7 @@
 # netflix.com
 0.0.0.0 cdn-0.nflximg.com
 0.0.0.0 api-global.netflix.com
-
+0.0.0.0 nrdp.prod.ftl.netflix.com
 
 # nbryb.com
 0.0.0.0 nbryb.com
