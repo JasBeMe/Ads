@@ -10,6 +10,14 @@
 0.0.0.0 ocfconnect-shard-eu02-euwest1.samsungiotcloud.com
 0.0.0.0 secureclock.playready.microsoft.com 
 0.0.0.0 secureclock2.playready.microsoft.com
+0.0.0.0 gld.push.samsungosp.com
+0.0.0.0 cdn.samsungcloudsolution.com
+0.0.0.0 musicid.samsungcloud.tv
+0.0.0.0 osb-apps.samsungqbe.com
+0.0.0.0 time.samsungcloudsolution.com
+0.0.0.0 configprd.samsungcloudsolution.net
+0.0.0.0 configprd.samsungcloudsolution.net
+
 
 # netflix.com
 0.0.0.0 cdn-0.nflximg.com
@@ -19,7 +27,18 @@
 0.0.0.0 occ-0-4795-34.1.nflxso.net
 0.0.0.0 assets.nflxext.com
 0.0.0.0 push.prod.netflix.com
+0.0.0.0 ichnaea.netflix.com
+0.0.0.0 customerevents.netflix.com
+0.0.0.0 secure.netflix.com
+0.0.0.0 nrdp50-appboot.netflix.com
+0.0.0.0 nrdp.nccp.netflix.com
+0.0.0.0 uiboot.netflix.com
+0.0.0.0 nrdp50-appboot.netflix.com
 
+
+# Apple
+0.0.0.0 is5-ssl.mzstatic.com
+0.0.0.0 mediaservices.cdn-apple.com
 
 # nbryb.com
 0.0.0.0 nbryb.com
