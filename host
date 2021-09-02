@@ -8,7 +8,8 @@
 # Samsung
 0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 ocfconnect-shard-eu02-euwest1.samsungiotcloud.com
-
+0.0.0.0 secureclock.playready.microsoft.com 
+0.0.0.0 secureclock2.playready.microsoft.com
 
 # netflix.com
 0.0.0.0 cdn-0.nflximg.com
