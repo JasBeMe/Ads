@@ -5,7 +5,7 @@
 # Other
 0.0.0.0 iphone12pro.luckywinner-web1.com
 
-# Samsung
+# Samsung all
 0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 ocfconnect-shard-eu02-euwest1.samsungiotcloud.com
 0.0.0.0 secureclock.playready.microsoft.com 
@@ -20,6 +20,19 @@
 0.0.0.0 osb.samsungqbe.com
 0.0.0.0 www.samsungotn.net
 0.0.0.0 i.ytimg.com
+
+
+# Samsung Ads
+0.0.0.0 config.samsungads.com
+0.0.0.0 gpm.samsungqbe.com
+0.0.0.0 log-config.samsungacr.com
+0.0.0.0 samsung.com
+0.0.0.0 samsungacr.com
+0.0.0.0 samsungads.com
+0.0.0.0 samsungcloudsolution.com
+0.0.0.0 samsungcloudsolution.net
+0.0.0.0 samsungotn.net
+
 
 # netflix.com
 0.0.0.0 cdn-0.nflximg.com
