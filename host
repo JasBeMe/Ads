@@ -3117,3 +3117,20 @@
 0.0.0.0 api.bestzpagelearnnextzone.com
 0.0.0.0 bestzpagelearnnextzone.com
 0.0.0.0 vericloudapp.com
+
+# Block Facebook
+0.0.0.0 www.facebook.com
+0.0.0.0 facebook.com
+0.0.0.0 login.facebook.com
+0.0.0.0 www.login.facebook.com
+0.0.0.0 fbcdn.net
+0.0.0.0 www.fbcdn.net
+0.0.0.0 fbcdn.com
+0.0.0.0 www.fbcdn.com
+0.0.0.0 static.ak.fbcdn.net
+0.0.0.0 static.ak.connect.facebook.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 www.connect.facebook.net
+0.0.0.0 apps.facebook.com
+0.0.0.0 fb.com
+0.0.0.0 www.fb.com
