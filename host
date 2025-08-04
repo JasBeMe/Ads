@@ -3135,3 +3135,7 @@
 0.0.0.0 www.fbcdn.com
 0.0.0.0 www.fbcdn.net
 0.0.0.0 www.login.facebook.com
+
+# Spam
+0.0.0.0 o17675.ingest.sentry.io
+0.0.0.0 o1025883.ingest.sentry.io
