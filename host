@@ -3142,3 +3142,30 @@
 0.0.0.0 o1.ingest.sentry.io
 0.0.0.0 tracking.prmtracking.com
 0.0.0.0 net.geo.opera.com
+
+# html-load.com
+0.0.0.0 fb.html-load.com
+0.0.0.0 0.fb.html-load.com
+0.0.0.0 1.fb.html-load.com
+0.0.0.0 2.fb.html-load.com
+0.0.0.0 3.fb.html-load.com
+0.0.0.0 4.fb.html-load.com
+0.0.0.0 5.fb.html-load.com
+0.0.0.0 6.fb.html-load.com
+0.0.0.0 7.fb.html-load.com
+0.0.0.0 8.fb.html-load.com
+0.0.0.0 9.fb.html-load.com
+0.0.0.0 html-load.com
+0.0.0.0 0.html-load.com
+0.0.0.0 1.html-load.com
+0.0.0.0 2.html-load.com
+0.0.0.0 3.html-load.com
+0.0.0.0 4.html-load.com
+0.0.0.0 5.html-load.com
+0.0.0.0 6.html-load.com
+0.0.0.0 7.html-load.com
+0.0.0.0 8.html-load.com
+0.0.0.0 9.html-load.com
+
+ 
+
